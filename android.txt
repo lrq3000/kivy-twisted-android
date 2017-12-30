@@ -1,0 +1,3 @@
+title=Twisted2
+author=Stephen Larroque
+orientation=portrait

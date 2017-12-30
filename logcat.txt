@@ -1,0 +1,307 @@
+I/python  ( 4816): Initialize Python for Android
+
+W/IInputConnectionWrapper( 4799): showStatusIcon on inactive InputConnection
+
+D/InputMethodManagerService( 1804): ime_enabled = false is same as last value, no change
+
+I/ActivityManager( 1804): Displayed org.kivy.pygame/org.renpy.android.PythonActivity: +784ms
+
+I/ActivityManager( 1804): Killing 4702:com.google.android.gms.unstable/u0a16 (adj 15): empty #6
+
+I/python  ( 4816): ['/data/data/org.kivy.pygame/files/lib/python2.7/site-packages', '/data/data/org.kivy.pygame/files/lib/site-python']
+
+I/python  ( 4816): Android path ['/data/data/org.kivy.pygame/files/lib/python27.zip', '/data/data/org.kivy.pygame/files/lib/python2.7', '/data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload', '/data/data/org.kivy.pygame/files/lib/python2.7/site-packages', '/storage/sdcard/kivy/twisted2', '/data/data/org.kivy.pygame/files/lib/python2.7/site-packages/PIL']
+
+I/python  ( 4816): Android kivy bootstrap done. __name__ is __main__
+
+I/python  ( 4816): Run user program, change dir and execute main.py
+
+I/python  ( 4816): LALALALI
+
+I/python  ( 4816): [INFO              ] [Logger      ] Record log in /storage/sdcard/kivy/twisted2/.kivy/logs/kivy_17-12-31_7.txt
+
+I/python  ( 4816): [INFO              ] [Kivy        ] v1.9.1
+
+I/python  ( 4816): [INFO              ] [Python      ] v2.7.2 (default, Mar 20 2016, 23:30:13) 
+
+I/python  ( 4816): [GCC 4.8]
+
+I/python  ( 4816): [INFO              ] [Factory     ] 179 symbols loaded
+
+I/python  ( 4816):  /data/data/org.kivy.pygame/files/lib/python2.7/site-packages/kivy/core/image/img_pygame.py:13: RuntimeWarning: import cdrom: No module named cdrom
+
+I/python  ( 4816):  (ImportError: No module named cdrom)
+
+I/python  ( 4816): [INFO              ] [Image       ] Providers: img_tex, img_dds, img_gif, img_pygame, img_pil (img_ffpyplayer ignored)
+
+I/python  ( 4816): [INFO              ] [Text        ] Provider: pygame
+
+I/python  ( 4816): LAUNCHING
+
+D/dalvikvm( 1804): WAIT_FOR_CONCURRENT_GC blocked 1ms
+
+D/dalvikvm( 1804): GC_EXPLICIT freed 359K, 21% free 7626K/9588K, paused 0ms+1ms, total 19ms
+
+V/python service( 4670): service exists, do not start again
+
+I/ActivityManager( 1804): Killing 4670:org.kivy.pygame:PythonService/u0a52 (adj 0): remove task
+
+I/ActivityManager( 1804): Start proc org.kivy.pygame:PythonService for service org.kivy.pygame/org.renpy.android.PythonService: pid=4832 uid=10052 gids={50052, 1028, 1015, 1023, 3003, 3002}
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libsdl.so 0x9cf06db0
+
+D/BstCommandProcessor-Service( 2035): startService called with arg: notification
+
+D/BstCommandProcessor-Service( 2035): New Notification has been observed, informing frontend now
+
+D/NotificationService( 1804): In writeNotificationInfo: pkgName org.kivy.pygame
+
+D/houdini ( 4832): [4843] Loading library(version: 4.0.8.45720 RELEASE)... successfully.
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libsdl.so 0x9cf06db0
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libsdl_image.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libsdl_image.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libsdl_image.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libsdl_ttf.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libsdl_ttf.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libsdl_ttf.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libsdl_mixer.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libsdl_mixer.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libsdl_mixer.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libpython2.7.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libpython2.7.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libpython2.7.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libapplication.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libapplication.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libapplication.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libsdl_main.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libsdl_main.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libsdl_main.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_io.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_io.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_io.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/unicodedata.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/unicodedata.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/unicodedata.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/app-lib/org.kivy.pygame-1/libsqlite3.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/app-lib/org.kivy.pygame-1/libsqlite3.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/app-lib/org.kivy.pygame-1/libsqlite3.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_sqlite3.so 0x9cf06db0
+
+D/dalvikvm( 4832): Added shared lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_sqlite3.so 0x9cf06db0
+
+D/dalvikvm( 4832): No JNI_OnLoad found in /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_sqlite3.so 0x9cf06db0, skipping init
+
+D/dalvikvm( 4832): Trying to load lib /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_imaging.so 0x9cf06db0
+
+D/houdini ( 4832): [4843] Open Native Library /data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_imaging.so failed.
+
+E/dalvikvm( 4832): dlopen("/data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_imaging.so") failed: dlopen failed: library "/data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload/_imaging.so" not found
+
+I/python  ( 4832): Initialize Python for Android
+
+I/python  ( 4832): ['/data/data/org.kivy.pygame/files/lib/python2.7/site-packages', '/data/data/org.kivy.pygame/files/lib/site-python']
+
+I/python  ( 4832): Android path ['/data/data/org.kivy.pygame/files/lib/python27.zip', '/data/data/org.kivy.pygame/files/lib/python2.7', '/data/data/org.kivy.pygame/files/lib/python2.7/lib-dynload', '/data/data/org.kivy.pygame/files/lib/python2.7/site-packages', '/storage/sdcard/kivy/twisted2/service', '/data/data/org.kivy.pygame/files/lib/python2.7/site-packages/PIL']
+
+I/python  ( 4832): Android kivy bootstrap done. __name__ is __main__
+
+I/python  ( 4832): Run user program, change dir and execute main.py
+
+I/python  ( 4832): LALALALO
+
+I/python  ( 4832): [INFO              ] [Logger      ] Record log in /storage/sdcard/kivy/twisted2/service/.kivy/logs/kivy_17-12-31_5.txt
+
+I/python  ( 4832): [INFO              ] [Kivy        ] v1.9.1
+
+I/python  ( 4832): [INFO              ] [Python      ] v2.7.2 (default, Mar 20 2016, 23:30:13) 
+
+I/python  ( 4832): [GCC 4.8]
+
+I/python  ( 4832): [INFO              ] [Factory     ] 179 symbols loaded
+
+I/python  ( 4832): Python for android ended.
+
+I/python  ( 4816): [INFO              ] [Window      ] Provider: pygame
+
+I/libSDL  ( 4816): SDL_SetVideoMode(): application requested mode 720x1280
+
+I/python  ( 4816): [INFO              ] [GL          ] OpenGL version <OpenGL ES 2.0>
+
+I/python  ( 4816): [INFO              ] [GL          ] OpenGL vendor <ARM>
+
+I/python  ( 4816): [INFO              ] [GL          ] OpenGL renderer <Mali-T830>
+
+I/python  ( 4816): [INFO              ] [GL          ] OpenGL parsed version: 2, 0
+
+I/python  ( 4816): [INFO              ] [GL          ] Texture max size <8192>
+
+I/python  ( 4816): [INFO              ] [GL          ] Texture max units <8>
+
+D/dalvikvm( 4816): GC_CONCURRENT freed 1244K, 36% free 2967K/4628K, paused 1ms+0ms, total 4ms
+
+I/python  ( 4816): [INFO              ] [Support     ] Android install hooks
+
+I/python  ( 4816): [INFO              ] [Window      ] virtual keyboard not allowed, single mode, not docked
+
+I/python  ( 4816): [INFO              ] [OSC         ] using <thread> for socket
+
+I/python  ( 4816): [INFO              ] [Base        ] Start application main loop
+
+I/python  ( 4816): [INFO              ] [Android     ] found 17 joystick
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <0>
+
+I/python  ( 4816): [INFO              ] [Android     ] discard joystick <0> cause no button
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <1>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <2>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <3>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <4>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <5>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <6>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <7>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <8>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <9>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <10>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <11>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <12>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <13>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <14>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <15>
+
+I/python  ( 4816): [INFO              ] [Android     ] create joystick <16>
+
+I/python  ( 4816): [INFO              ] [GL          ] NPOT texture support is available
+
+I/python  ( 4816): [INFO              ] [Support     ] Starting twisted reactor
+
+D/InputMethodManagerService( 1804): ime_enabled = false is same as last value, no change
+
+D/BstCommandProcessor-Service( 2035): startService called with arg: notification
+
+D/BstCommandProcessor-Service( 2035): New Notification has been observed, informing frontend now
+
+D/NotificationService( 1804): In writeNotificationInfo: pkgName android
+
+D/dalvikvm( 2035): GC_FOR_ALLOC freed 1095K, 25% free 4233K/5636K, paused 4ms, total 4ms
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/InputMethodManagerService( 1804): ime_enabled = false is same as last value, no change
+
+D/BstCommandProcessor-Service( 2035): startService called with arg: notification
+
+D/BstCommandProcessor-Service( 2035): New Notification has been observed, informing frontend now
+
+D/NotificationService( 1804): In writeNotificationInfo: pkgName android
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/dalvikvm( 2023): GC_CONCURRENT freed 674K, 23% free 2866K/3680K, paused 2ms+0ms, total 5ms
+
+D/dalvikvm( 2023): WAIT_FOR_CONCURRENT_GC blocked 3ms
+
+D/InputMethodManagerService( 1804): ime_enabled = false is same as last value, no change
+
+D/BstCommandProcessor-Service( 2035): startService called with arg: notification
+
+D/BstCommandProcessor-Service( 2035): New Notification has been observed, informing frontend now
+
+D/NotificationService( 1804): In writeNotificationInfo: pkgName android
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/dalvikvm( 2035): GC_FOR_ALLOC freed 1042K, 25% free 4228K/5636K, paused 4ms, total 4ms
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/BstCommandProcessor-httpd( 2035): command: imestring (with args)
+
+D/BstCommandProcessor-httpd( 2035): response: {"result":"ok"}
+
+D/dalvikvm( 2023): GC_CONCURRENT freed 703K, 23% free 2835K/3676K, paused 0ms+0ms, total 4ms
+
+D/dalvikvm( 2023): GC_CONCURRENT freed 647K, 22% free 2866K/3668K, paused 3ms+0ms, total 10ms
+
+D/dalvikvm( 2023): WAIT_FOR_CONCURRENT_GC blocked 6ms
+
+D/dalvikvm( 2023): GC_CONCURRENT freed 679K, 23% free 2859K/3680K, paused 1ms+1ms, total 4ms
